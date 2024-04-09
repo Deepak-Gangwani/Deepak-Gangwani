@@ -1,4 +1,3 @@
-[![MasterHead](https://media.dev.to/cdn-cgi/image/width=1300,height=200,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjjpdcdbzm1t21xat9w6c.gif)]
 <h1 align="center">Hi 👋, I'm Deepak Gangwani</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm passionate about leveraging data science techniques to derive insights and solve complex problems. As a full stack developer, I enjoy crafting end-to-end solutions that deliver value to users. Python is my go-to language for building robust and scalable applications.</h3>
 
