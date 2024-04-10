@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Gangwani</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm passionate about leveraging data science techniques to derive insights and solve complex problems. As a full stack developer, I enjoy crafting end-to-end solutions that deliver value to users. Python is my go-to language for building robust and scalable applications.</h3>
 
-<p align="right"><img alt="Coding" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" /></p>
+<p align="right"><img alt="Coding" src="https://i.pinimg.com/originals/b7/93/ae/b793aebd01b9271b999d03dfaf76be21.gif" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-gangwani&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-gangwani" /> </p>
