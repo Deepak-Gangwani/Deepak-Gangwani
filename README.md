@@ -1,13 +1,15 @@
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://github.com/Deepak-Gangwani/Deepak-Gangwani/assets/108722554/092d6fd7-f4d9-4766-a1ca-8ae1c270e10e)
+
 <h1 align="center">Hi 👋, I'm Deepak Gangwani</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm passionate about leveraging data science techniques to derive insights and solve complex problems. As a full stack developer, I enjoy crafting end-to-end solutions that deliver value to users. Python is my go-to language for building robust and scalable applications.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-gangwani&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-gangwani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak-gangwani" alt="deepak-gangwani" /></a> </p>
 
 - 🔭 I’m currently working on [portfolio website](https://github.com/Deepak-Gangwani/my-portfolio-website-24)
 
-- 🌱 I’m currently learning **Data Structure Algorithm Using Python, FastAPI Framework and Tensorflow for Deep Learning**
+- 🌱 I’m currently learning **Data Structure Algorithm Using Python**
 
 - 👯 I’m looking to collaborate on [AI based web applications](https://www.ibm.com/in-en)
 
