@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak-gangwani" alt="deepak-gangwani" /></a> </p>
 
-- 🔭 I’m currently working on [portfolio website](https://github.com/Deepak-Gangwani/my-portfolio-website-24) <img align="right" alt="Coding" width="350" src="https://github.com/Deepak-Gangwani/Deepak-Gangwani/assets/108722554/2cffa229-c406-4070-a2d7-bbb12d2cf518">
+- 🔭 I’m currently working on [portfolio website](https://github.com/Deepak-Gangwani/my-portfolio-website-24) <img align="right" alt="Coding" width="450" src="https://github.com/Deepak-Gangwani/Deepak-Gangwani/assets/108722554/2cffa229-c406-4070-a2d7-bbb12d2cf518">
 
 - 🌱 I’m currently learning **Data Structure Algorithm Using Python**
 
