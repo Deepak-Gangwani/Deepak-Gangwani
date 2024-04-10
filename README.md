@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepak Gangwani</h1>
+<h1 align="center">Hi 👋, I'm Deepak Gangwani</h1><img align="right" alt="Coding" width="350" src="https://github.com/Deepak-Gangwani/Deepak-Gangwani/assets/108722554/c3c4b3da-8e85-4fbe-9e7d-2c617cf82ce0">
 <h3 align="center">Welcome to my GitHub profile! I'm passionate about leveraging data science techniques to derive insights and solve complex problems. As a full stack developer, I enjoy crafting end-to-end solutions that deliver value to users. Python is my go-to language for building robust and scalable applications.</h3> 
 
 
