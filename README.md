@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepak Gangwani</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm passionate about leveraging data science techniques to derive insights and solve complex problems. As a full stack developer, I enjoy crafting end-to-end solutions that deliver value to users. Python is my go-to language for building robust and scalable applications.</h3>
 
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-gangwani&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-gangwani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak-gangwani" alt="deepak-gangwani" /></a> </p>
 
-- 🔭 I’m currently working on [portfolio website](https://github.com/Deepak-Gangwani/my-portfolio-website-24)
+- 🔭 I’m currently working on [portfolio website](https://github.com/Deepak-Gangwani/my-portfolio-website-24) <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Data Structure Algorithm Using Python**
 
