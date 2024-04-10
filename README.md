@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Gangwani</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm passionate about leveraging data science techniques to derive insights and solve complex problems. As a full stack developer, I enjoy crafting end-to-end solutions that deliver value to users. Python is my go-to language for building robust and scalable applications.</h3>
 
-
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-gangwani&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-gangwani" /> </p>
 
@@ -23,7 +23,6 @@
 
 - ⚡ Fun fact **I think am a versatile person who can adapt in any environment.**
 
-<p align="right"><img alt="Coding" width="200" height="200" src="https://i.pinimg.com/originals/b7/93/ae/b793aebd01b9271b999d03dfaf76be21.gif" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/deepak-gangwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deepak-gangwani" height="30" width="40" /></a>
