@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://deepakgangwani.pythonanywhere.com](https://deepakgangwani.pythonanywhere.com)
 
-- 📝 I regularly write articles on [https://deepakgangwani.pythonanywhere.com/blogs/](https://deepakgangwani.pythonanywhere.com/blogs/)
+- 📝 I regularly write blog on [https://deepakgangwani.pythonanywhere.com/blogs/](https://deepakgangwani.pythonanywhere.com/blogs/)
 
 - 💬 Ask me about **Python and it's framework**
 
